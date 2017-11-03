@@ -427,6 +427,7 @@ body {
 .cover {
     color: whitesmoke;
     font-size: larger;
+    margin-top: 50px;
 }
 .cover .btn-lg {
     font-weight: bold;
